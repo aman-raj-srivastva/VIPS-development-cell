@@ -245,7 +245,7 @@ nav ul li {
         cursor: pointer;
         }
     
-    @media (max-width:720px){
+    /* @media (max-width:720px){
     .footer{
     text-align:left;
     padding:5%;
@@ -258,4 +258,4 @@ nav ul li {
     .footer .row a i{
     margin:0% 3%;
     }
-    }
+    } */
